@@ -1,0 +1,138 @@
+id_text,text_name,version,l_no,text
+Q000767,A dialogue between two unnamed scribes,nan,1,sux:dumu[child]N sux:edubbaʾa[scribal-school]N sux:ud[sun]N sux:ul[distant]V/i sux:ŋen[go]V/i sux:gana[come-on!]J sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,2,sux:tukum[if]CNJ sux:namdubsar[the-scribal-arts]N sux:zu[know]V/t sux:ana[what?]QP sux:šid[count]V/t
+Q000767,A dialogue between two unnamed scribes,nan,3,sux:mu[name]N sux:didli[several]AJ sux:zig[rise]V/t sux:namdubsar[the-scribal-arts]N
+Q000767,A dialogue between two unnamed scribes,nan,4,sux:niŋziŋal[living-creature]N sux:edin[steppe]N sux:zag[side]N lu₂-šu-ka-še₃[NA]NA
+Q000767,A dialogue between two unnamed scribes,nan,5,sux:sar[write]V/t sux:egir[back]N sux:gu[neck]N sux:du[build]V/t
+Q000767,A dialogue between two unnamed scribes,nan,6,sux:ara[times]N sux:igi[~mathematics]N sux:dirig[excess]N sux:niŋkas[account]N sux:sahar[dust]N sux:ŋar[place]V/t sux:zag[side]N sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,7,sux:kaʾinima[formula]N sux:namdumu[status]N sux:edubbaʾa[scribal-school]N
+Q000767,A dialogue between two unnamed scribes,nan,8,sux:šid[count]V/t sux:dirig[excess]N sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,9,sux:ŋen[go]V/i sux:gabari[copy]N sux:gub[stand]V/i sux:in[abuse]N sux:til[complete]V/i
+Q000767,A dialogue between two unnamed scribes,nan,10,sux:lu₂.IM[criminal]N sux:u[cvne]N sux:hub[cvve]V/t sux:ŋeštug[ear]N sux:la[hang]V/t
+Q000767,A dialogue between two unnamed scribes,nan,11,sux:ŋeš[penis]N sux:gudu[buttocks]N sux:kešed[bind]V/t sux:šir[testicle]N sux:dili[single]V/i sux:tulu[slacken]V/t
+Q000767,A dialogue between two unnamed scribes,nan,12,sux:meze[jaw]N sux:gid[long]V/i sux:nundum[lip]N sux:gur[thick]V/i sux:ib[hips]N sux:kud[cut]V/t sux:gudu[buttocks]N ku-da[NA]NA
+Q000767,A dialogue between two unnamed scribes,nan,13,sux:ŋaʾe[I]IP sux:dim[create]V/t
+Q000767,A dialogue between two unnamed scribes,nan,14,sux:lu₂.IM[criminal]N sux:umun[insect]N sux:gada[flax]N sux:la[hang]V/t
+Q000767,A dialogue between two unnamed scribes,nan,15,sux:nimsahara[fly]N sux:kid[mat]N sux:ašrinna[object]N sux:sag[beat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,16,sux:šah[pig]N sux:uttukku[abacus]N sux:tuku[beat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,17,sux:amsi[elephant]N sux:munu[malt]N sux:sissig[green]V/i sux:barag[spread]V/t
+Q000767,A dialogue between two unnamed scribes,nan,18,sux:kaʾa[fox]N sux:utul[tureen]N sux:bar[outside]V/t
+Q000767,A dialogue between two unnamed scribes,nan,19,sux:lulim[stag]N sux:aguhum[clothing]N sux:sig[tie]V/t
+Q000767,A dialogue between two unnamed scribes,nan,20,sux:urbara[wolf]N sux:siki[hair]N sux:peš[thick]V/i
+Q000767,A dialogue between two unnamed scribes,nan,21,sux:ninka[mongoose]N x[NA]NA x[NA]NA x[NA]NA x[NA]NA x-ta-si-si[NA]NA
+Q000767,A dialogue between two unnamed scribes,nan,22,sux:zahda[piglet]N x[NA]NA x[NA]NA x[NA]NA
+Q000767,A dialogue between two unnamed scribes,nan,23,x[NA]NA x-re[NA]NA
+Q000767,A dialogue between two unnamed scribes,nan,24,x-gi-a[NA]NA sux:šurum[litter]N sux:kag[mouth]N sux:gu[eat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,25,sux:lu₂.IM[criminal]N sux:i[oil]N sux:dug[pot]N sux:hulu[bad]V/i
+Q000767,A dialogue between two unnamed scribes,nan,26,sux:kuš[skin]N sux:niŋŋala[possessions]N sux:e[house]N sux:niŋgur[property]N sux:hulu[bad]V/i
+Q000767,A dialogue between two unnamed scribes,nan,27,sux:ašag[field]N sux:tur[small]V/i sux:e[house]N sux:ŋen[go]V/i
+Q000767,A dialogue between two unnamed scribes,nan,28,sux:tug[textile]N sux:til[complete]V/i sux:tug[textile]N sux:siki[hair]N sux:du[spread]V/t
+Q000767,A dialogue between two unnamed scribes,nan,29,sux:i[oil]N sux:silim[vessel]N sux:til[complete]V/i sux:er[tears]N sux:šeš[weep]V/t
+Q000767,A dialogue between two unnamed scribes,nan,30,sux:gud[nest]N sux:umun[insect]N sux:kiŋ[work]N sux:sag[good]V/i
+Q000767,A dialogue between two unnamed scribes,nan,31,sux:niŋdara[rag]N sux:a[water]N sux:naŋ[drink]V/t
+Q000767,A dialogue between two unnamed scribes,nan,32,sux:niŋ[thing]N sux:ud[sun]N sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,33,sux:namtar[fate]N sux:egir[back]N sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,34,sux:a[water]N sux:nu[not]V/i sux:kaš[beer]N sux:nu[not]V/i sux:duh[bran]N sux:nu[not]V/i sux:dida[wort]N sux:nu[not]V/i sux:zid[flour]N sux:nu[not]V/i sux:zidmilla[flour]N sux:nu[not]V/i sux:tug[textile]N sux:nu[not]V/i sux:niŋdara[rag]N sux:nu[not]V/i
+Q000767,A dialogue between two unnamed scribes,nan,35,sux:an[sky]N sux:teŋ[approach]V/i sux:ki[place]N sux:teŋ[approach]V/i
+Q000767,A dialogue between two unnamed scribes,nan,36,sux:kaš[beer]N sux:tuku[acquire]V/t sux:duh[bran]N sux:tuku[acquire]V/t sux:zid[flour]N sux:tuku[acquire]V/t sux:inbulbul[chaff?]N sux:tuku[acquire]V/t
+Q000767,A dialogue between two unnamed scribes,nan,37,sux:lu₂.IM[criminal]N sux:zaʾe[you]IP sux:ŋaʾe[I]IP sux:inim[word]N sux:gabari[copy]N sux:šum[give]V/t
+Q000767,A dialogue between two unnamed scribes,nan,38,sux:bar[outside]V/t sux:en[cvne]N sux:tar[cut]V/t sux:ur[he]IP sux:dumu[child]N sux:lu[person]N sux:gin[firm]V/i sux:me[be]V/i
+Q000767,A dialogue between two unnamed scribes,nan,39,sux:e[house]N sux:adda[father]N sux:šaggal[food]N sux:itud[moon]N sux:kaš[beer]N sux:zidmunu[ration]N sux:še[barley]N sux:dirig[exceed]V/i
+Q000767,A dialogue between two unnamed scribes,nan,40,sux:ama[mother]N sux:šu[hand]N sux:bala[turn]V/t sux:ak[do]V/t
+Q000767,A dialogue between two unnamed scribes,nan,41,sux:huluh[frightened]V/i sux:dul[cover]V/t sux:niŋdara[rag]N sux:bur[spread]V/t
+Q000767,A dialogue between two unnamed scribes,nan,42,sux:dud[combat]N sux:mu[grow]V/t sux:esir[street]N sux:gub[stand]V/i
+Q000767,A dialogue between two unnamed scribes,nan,43,sux:lu[person]N sux:kapiriŋ[priest]N sux:dab[seize]V/t sux:gabal[fight]N sux:du[build]V/t
+Q000767,A dialogue between two unnamed scribes,nan,44,sux:lu[person]N sux:ŋešba[fist]N sux:aškud[extremities]N sux:šar[mix]V/t sux:šag[heart]N sux:sed[cold]V/i
+Q000767,A dialogue between two unnamed scribes,nan,45,sux:lu₂.IM[criminal]N sux:anaš[why?]QP sux:dirig[excess]N sux:niŋ[thing]N sux:gur[thick]V/i
+Q000767,A dialogue between two unnamed scribes,nan,46,sux:did[lawsuit]N sux:dug[speak]V/t sux:egir[back]N sux:til[complete]V/i
+Q000767,A dialogue between two unnamed scribes,nan,47,sux:šu[hand]N sux:kag[mouth]N sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,48,sux:namdubsar[the-scribal-arts]N sux:šid[count]V/t sux:ki[place]N sux:gi[turn]V/i
+Q000767,A dialogue between two unnamed scribes,nan,49,sux:niŋziŋal[living-creature]N sux:edin[steppe]N sux:zag[side]N lu₂-šu-ka-še₃[NA]NA sux:sar[write]V/t
+Q000767,A dialogue between two unnamed scribes,nan,50,sux:emeŋir[Sumerian]N sux:eme[tongue]N sux:si[horn]N sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,51,sux:ara[times]N sux:šid[count]V/t sux:zag[side]N sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,52,sux:igi[~mathematics]N sux:dirig[excess]N sux:duh[loosen]V/t sux:kiʾus[unmng]N sux:dab[seize]V/t
+Q000767,A dialogue between two unnamed scribes,nan,53,sux:kaʾinima[formula]N sux:namdumu[status]N sux:edubbaʾa[scribal-school]N sux:šu[hand]N sux:tum[bring]V/t
+Q000767,A dialogue between two unnamed scribes,nan,54,sux:en[cvne]N sux:tar[cut]V/t sux:šu[hand]N sux:šum[give]V/t
+Q000767,A dialogue between two unnamed scribes,nan,55,sux:šu[hand]N sux:sag[good]V/i sux:ki[place]N sux:namdubsar[the-scribal-arts]N sux:gu[voice]N sux:de[pour]V/t
+Q000767,A dialogue between two unnamed scribes,nan,56,sux:lu₂.IM[criminal]N sux:eh[insect]N sux:ze[gall-bladder]N sux:šaŋar[starvation]N sux:uš[die]V/i
+Q000767,A dialogue between two unnamed scribes,nan,57,niŋ₂-ur₅-ra[NA]NA sux:eh[insect]N sux:ur[he]IP sux:ŋen[go]V/i sux:urra[loan]N sux:mete[one's-own]RP
+Q000767,A dialogue between two unnamed scribes,nan,58,sux:gabari[copy]N sux:me[be]V/i
+Q000767,A dialogue between two unnamed scribes,nan,59,sux:anaš[why?]QP sux:ŋaʾe[I]IP sux:gabari[copy]N sux:me[be]V/i
+Q000767,A dialogue between two unnamed scribes,nan,60,sux:lu₂.IM[criminal]N sux:lul[false]V/i sux:dug[speak]V/t sux:ragaba[rider]N sux:ki[place]N sux:bad[open]V/t
+Q000767,A dialogue between two unnamed scribes,nan,61,sux:gud[ox]N sux:sa[sinew]N sux:kud[cut]V/t sux:šudul[yoke]N sux:nud[lie]V/i
+Q000767,A dialogue between two unnamed scribes,nan,62,sux:gud[ox]N sux:gu[voice]N sux:rah[beat]V/t sux:bir[scatter]V/t sux:zir[break]V/t
+Q000767,A dialogue between two unnamed scribes,nan,63,sux:geme[worker]N sux:šukud[fisherman]N sux:ban[unit]N sux:ud[sun]N sux:zal[pass]V/t
+Q000767,A dialogue between two unnamed scribes,nan,64,sux:saŋ[head]N sux:lu₂.IM[criminal]N sux:udun[kiln]N sux:bahar[potter]N sux:nud[lie]V/i
+Q000767,A dialogue between two unnamed scribes,nan,65,sux:šaŋanla[trader]N sux:kug[metal]N sux:damgar[merchant]N sux:til[complete]V/i
+Q000767,A dialogue between two unnamed scribes,nan,66,sux:lu[person]N sux:kurun[beer]N sux:zidmunu[ration]N sux:gu[eat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,67,sux:kiši[half]N sux:ak[do]V/t sux:ŋen[go]V/i sux:lu[person]N sux:šed[defecate]V/t sux:sila[street]N sux:bar[outside]V/t
+Q000767,A dialogue between two unnamed scribes,nan,68,sux:galam[skilful]V/i sux:hurum[child]N sux:uš[poison]N sux:zaga[part-of-the-face]N sux:bar[outside]V/t
+Q000767,A dialogue between two unnamed scribes,nan,69,sux:ana[what?]QP sux:zaʾe[you]IP sux:ŋaʾe[I]IP sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,70,sux:lunisub[ecstatic]N sux:lu₂.IM[criminal]N sux:dimma[thought]N sux:ugubi[monkey]N
+Q000767,A dialogue between two unnamed scribes,nan,71,sux:e[house]N sux:tuku[acquire]V/t sux:esir[street]N sux:nud[lie]V/i
+Q000767,A dialogue between two unnamed scribes,nan,72,sux:šurin[oven]N sux:namlulu[humanity]N sux:zidmunu[ration]N sux:barag[spread]V/t
+Q000767,A dialogue between two unnamed scribes,nan,73,sux:utul[tureen]N sux:arzana[groats]N sux:šurin[oven]N sux:ed[ascend]V/i
+Q000767,A dialogue between two unnamed scribes,nan,74,sux:gaz[kill]V/t sux:tu[soup]N sux:bil[burn]V/t
+Q000767,A dialogue between two unnamed scribes,nan,75,sux:masila[heel]N sux:sasal[back]N sux:su[flesh]N sux:zil[boil]V/i
+Q000767,A dialogue between two unnamed scribes,nan,76,sux:gigur[container]N sux:nisig[greenery]N sux:zu[tooth]N sux:rah[beat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,77,sux:gigur[container]N sux:šukud[fisherman]N sux:kud[fish]N sux:kar[flee]V/t
+Q000767,A dialogue between two unnamed scribes,nan,78,sux:ud[sun]N sux:didli[several]AJ sux:ŋešba[fist]N sux:dagum[unmng]N sux:igi[eye]N sux:kiri[nose]N sux:gud[jump]V/t
+Q000767,A dialogue between two unnamed scribes,nan,79,sux:gabsa[buyer]N sux:šakanka[market]N sux:lu[person]N sux:še[barley]N sux:sa[roast]V/t
+Q000767,A dialogue between two unnamed scribes,nan,80,sux:lunisub[ecstatic]N sux:igi[face]N sux:kar[flee]V/t
+Q000767,A dialogue between two unnamed scribes,nan,81,sux:udun[kiln]N sux:bahar[potter]N sux:gur[thick]V/i
+Q000767,A dialogue between two unnamed scribes,nan,82,sux:gumur[spine]N sux:zag[side]N sux:gudu[buttocks]N
+Q000767,A dialogue between two unnamed scribes,nan,83,sux:zukešed[troops]N sux:sim[carbuncle]N sux:si[fill]V/t
+Q000767,A dialogue between two unnamed scribes,nan,84,sux:bisaŋ[basket]N sux:ninda[bread]N sux:kurum[ration]N sux:lukur[priestess]N sux:šub[fall]V/t
+Q000767,A dialogue between two unnamed scribes,nan,85,sux:geme[worker]N sux:lukur[priestess]N sux:tur[small]V/i
+Q000767,A dialogue between two unnamed scribes,nan,86,sux:igi[eye]N sux:zahda[piglet]N sux:ur[roam]V/i
+Q000767,A dialogue between two unnamed scribes,nan,87,sux:e[house]N sux:diŋir[deity]N sux:eš[shrine]N sux:didli[several]AJ sux:idu[doorkeeper]N sux:gudug[priest]N sux:usag[sleep]N sux:igi[face]N sux:dag[demolish]V/t sux:ennuŋ[imprisonment]N sux:ak[do]V/t
+Q000767,A dialogue between two unnamed scribes,nan,88,sux:lu₂.IM[criminal]N sux:saŋ[head]N sux:kag[mouth]N sux:gu[eat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,89,sux:šaggal[food]N sux:kuš[devastation]N sux:kalam[land]N sux:niŋin[encircle]V/t
+Q000767,A dialogue between two unnamed scribes,nan,90,sux:anaš[why?]QP sux:in[abuse]N sux:zu[know]V/t sux:dub[tremble]V/i
+Q000767,A dialogue between two unnamed scribes,nan,91,sux:aga[rear]N sux:gub[stand]V/i sux:igi[eye]N sux:in[abuse]N sux:til[complete]V/i
+Q000767,A dialogue between two unnamed scribes,nan,92,sux:ŋen[go]V/i sux:zal[pass]V/t sux:kiŋ[work]N sux:la[hang]V/t
+Q000767,A dialogue between two unnamed scribes,nan,93,sux:ni[self]RP sux:buluŋ[grow]V/t sux:ašag[field]N sux:ŋen[go]V/i sux:aŋala[sack]N sux:šu[hand]N sux:la[hang]V/t
+Q000767,A dialogue between two unnamed scribes,nan,94,sux:luhuŋa[hireling]N sux:egir[back]N sux:karkid[prostitute]N
+Q000767,A dialogue between two unnamed scribes,nan,95,sux:gigur[container]N sux:u[grass]N sux:deg[collect]V/t sux:il[raise]V/t
+Q000767,A dialogue between two unnamed scribes,nan,96,sux:ud[sun]N sux:buru[harvest]N sux:a[arm]N sux:šaggal[food]N sux:sa[equal]V/t
+Q000767,A dialogue between two unnamed scribes,nan,97,sux:kiŋ[work]N sux:zah[disappear]V/i sux:šakanka[market]N sux:šeg[voice]N sux:dug[speak]V/t sux:gub[stand]V/i
+Q000767,A dialogue between two unnamed scribes,nan,98,sux:e[house]N sux:lu[person]N sux:diŋir[deity]N sux:kašdea[banquet]N sux:du[go]V/t
+Q000767,A dialogue between two unnamed scribes,nan,99,sux:egir[back]N sux:lu[person]N sux:kašdea[banquet]N sux:kur[enter]V/i
+Q000767,A dialogue between two unnamed scribes,nan,100,sux:ugu[skull]N sux:imhur[foam]N sux:sag[beat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,101,sux:gu[neck]N sux:ki[place]N sux:ŋar[place]V/t
+Q000767,A dialogue between two unnamed scribes,nan,102,sux:ni[self]RP sux:šu[hand]N sux:zu[know]V/t sux:kar[blow]V/t
+Q000767,A dialogue between two unnamed scribes,nan,103,sux:niŋ[thing]N sux:gu[eat]V/t sux:šu[hand]N sux:paphala[restless]AJ sux:zig[rise]V/t
+Q000767,A dialogue between two unnamed scribes,nan,104,sux:emeš[summer]N sux:inim[word]N sux:ŋissu[shade]N sux:niŋin[encircle]V/t
+Q000767,A dialogue between two unnamed scribes,nan,105,sux:ud[sun]N sux:sed[cold]V/i sux:inim[word]N sux:gaba[chest]N sux:ud[sun]N sux:niŋin[encircle]V/t
+Q000767,A dialogue between two unnamed scribes,nan,106,sux:lu₂.IM[criminal]N sux:saŋ[head]N sux:gu[neck]N sux:ne[brazier]N sux:nud[lie]V/i
+Q000767,A dialogue between two unnamed scribes,nan,107,sux:bala[turn]V/t sux:ašuŋiri[limbs]N sux:kud[cut]V/t sux:kuš[skin]N sux:sil[split]V/t
+Q000767,A dialogue between two unnamed scribes,nan,108,sux:e[house]N sux:burud[perforate]V/t sux:dun[dig]V/t sux:dug[speak]V/t
+Q000767,A dialogue between two unnamed scribes,nan,109,sux:anaš[why?]QP sux:gabal[fight]N sux:du[build]V/t
+Q000767,A dialogue between two unnamed scribes,nan,110,sux:in[abuse]N sux:dub[tremble]V/t sux:su[flesh]N sux:ŋal[be]V/i
+Q000767,A dialogue between two unnamed scribes,nan,111,sux:ŋen[go]V/i sux:esir[street]N sux:e[leave]V/i
+Q000767,A dialogue between two unnamed scribes,nan,112,sux:lu[person]N sux:zu[know]V/t sux:igi[eye]N sux:duh[loosen]V/t
+Q000767,A dialogue between two unnamed scribes,nan,113,sux:naŋah[fool]N sux:me[be]V/i sux:egir[back]N sux:inim[word]N sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,114,sux:lu[person]N sux:sikildua[insulting]AJ sux:me[be]V/i sux:niŋnam[anything]N sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,115,sux:ishab[rogue]N sux:di[speak]V/t sux:taka[abandon]V/t sux:me[be]V/i
+Q000767,A dialogue between two unnamed scribes,nan,116,sux:lu[person]N sux:saŋ[head]N sux:gi[turn]V/i sux:inim[word]N sux:dab[seize]V/t
+Q000767,A dialogue between two unnamed scribes,nan,117,sux:lu[person]N sux:gu[voice]N sux:rah[beat]V/t sux:šag[heart]N sux:didal[ashes]N sux:nud[lie]V/i
+Q000767,A dialogue between two unnamed scribes,nan,118,sux:lu[person]N sux:šaŋar[starvation]N sux:ninda[bread]N sux:kar[flee]V/t
+Q000767,A dialogue between two unnamed scribes,nan,119,sux:lu[person]N sux:dab[seize]V/t sux:bisaŋ[basket]N sux:e[house]N sux:diŋir[deity]N saŋ-bur₂-bi[NA]NA sux:kal[rare]V/i
+Q000767,A dialogue between two unnamed scribes,nan,120,sux:zeza[croaker]N sux:gu[voice]N sux:de[pour]V/t sux:daggi[quarter]N sux:lu[mix]V/t
+Q000767,A dialogue between two unnamed scribes,nan,121,sux:lu[person]N sux:pel[defile]V/t sux:teš[vigor]N sux:tuku[acquire]V/t sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,122,sux:lu[person]N sux:kar[insult]V/t niŋ₂-ur₂-ra[NA]NA sux:gu[eat]V/t
+Q000767,A dialogue between two unnamed scribes,nan,123,sux:lu[person]N sux:saŋ.DU[smitten-person]N sux:dumu[child]N sux:lu[person]N sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,124,sux:kimanzer[locus]N sux:lu[person]N sux:kal[rare]V/i sux:zu[know]V/t
+Q000767,A dialogue between two unnamed scribes,nan,125,sux:ursaŋ[hero]N sux:gub[stand]V/i sux:šu[hand]N sux:la[hang]V/t
+Q000767,A dialogue between two unnamed scribes,nan,126,sux:gub[stand]V/i sux:gin[firm]V/i sux:tuš[sit]V/i sux:sag[good]V/i
+Q000767,A dialogue between two unnamed scribes,nan,127,sux:šid[count]V/t sux:ul[hasten]V/i sux:sar[write]V/t sux:šu[hand]N sux:ur[drag]V/t
+Q000767,A dialogue between two unnamed scribes,nan,128,sux:niŋ[thing]N sux:sar[write]V/t sux:gu[voice]N sux:de[pour]V/t
+Q000767,A dialogue between two unnamed scribes,nan,129,sux:dugud[heavy]V/i sux:sar[write]V/t sux:šu[hand]N sux:zuhul[pierce]V/t
+Q000767,A dialogue between two unnamed scribes,nan,130,sux:šid[count]V/t sux:du[suitable]V/i sux:sar[write]V/t sux:mete[appropriate-thing]N sux:nu[not]V/i
+Q000767,A dialogue between two unnamed scribes,nan,131,sux:dub[tablet]N sux:tur[small]V/i sux:ul[hasten]V/i sux:til[complete]V/i
+Q000767,A dialogue between two unnamed scribes,nan,132,sux:kigub[station]N sux:ugu[cvne]N sux:de[pour]V/t
+Q000767,A dialogue between two unnamed scribes,nan,133,sux:kituš[dwelling]N sux:bir[scatter]V/t
+Q000767,A dialogue between two unnamed scribes,nan,134,sux:dimma[thought]N sux:šub[fall]V/t sux:gu[voice]N ab-ta-giri₁₁-da[NA]NA
+Q000767,A dialogue between two unnamed scribes,nan,135,sux:aba[who?]QP sux:gu[voice]N sux:de[pour]V/t
+Q000767,A dialogue between two unnamed scribes,nan,136,sux:ana[what?]QP sux:ŋal[be]V/i sux:dud[combat]N sux:e[leave]V/i
+Q000767,A dialogue between two unnamed scribes,nan,137,sux:gub[stand]V/i sux:lu₂.IM[criminal]N sux:gabal[fight]N sux:du[build]V/t sux:du[build]V/t
